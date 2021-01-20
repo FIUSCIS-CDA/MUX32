@@ -1947,7 +1947,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 208 48 328 624)
 	(text "Decoder_32" (rect 5 0 78 19)(font "Intel Clear" (font_size 8)))
-	(text "inst" (rect 8 555 24 572)(font "Intel Clear" ))
+	(text "myDecoder" (rect 8 555 62 572)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -2182,406 +2182,6 @@ refer to the applicable agreement for further details.
 	(drawing
 		(rectangle (rect 16 16 104 560))
 	)
-)
-(connector
-	(pt 1032 1392)
-	(pt 928 1392)
-)
-(connector
-	(pt 744 1576)
-	(pt 848 1576)
-)
-(connector
-	(pt 848 1576)
-	(pt 848 1448)
-)
-(connector
-	(pt 848 1448)
-	(pt 864 1448)
-)
-(connector
-	(pt 744 1528)
-	(pt 840 1528)
-)
-(connector
-	(pt 840 1528)
-	(pt 840 1432)
-)
-(connector
-	(pt 840 1432)
-	(pt 864 1432)
-)
-(connector
-	(pt 744 1480)
-	(pt 832 1480)
-)
-(connector
-	(pt 832 1480)
-	(pt 832 1416)
-)
-(connector
-	(pt 832 1416)
-	(pt 864 1416)
-)
-(connector
-	(pt 744 1432)
-	(pt 824 1432)
-)
-(connector
-	(pt 824 1432)
-	(pt 824 1400)
-)
-(connector
-	(pt 824 1400)
-	(pt 864 1400)
-)
-(connector
-	(pt 744 1384)
-	(pt 864 1384)
-)
-(connector
-	(pt 744 1336)
-	(pt 824 1336)
-)
-(connector
-	(pt 824 1336)
-	(pt 824 1368)
-)
-(connector
-	(pt 824 1368)
-	(pt 864 1368)
-)
-(connector
-	(pt 744 1288)
-	(pt 840 1288)
-)
-(connector
-	(pt 840 1288)
-	(pt 840 1352)
-)
-(connector
-	(pt 840 1352)
-	(pt 864 1352)
-)
-(connector
-	(pt 744 1240)
-	(pt 848 1240)
-)
-(connector
-	(pt 848 1240)
-	(pt 848 1336)
-)
-(connector
-	(pt 848 1336)
-	(pt 864 1336)
-)
-(connector
-	(pt 1016 1040)
-	(pt 928 1040)
-)
-(connector
-	(pt 744 1192)
-	(pt 848 1192)
-)
-(connector
-	(pt 848 1192)
-	(pt 848 1096)
-)
-(connector
-	(pt 848 1096)
-	(pt 864 1096)
-)
-(connector
-	(pt 744 1144)
-	(pt 840 1144)
-)
-(connector
-	(pt 840 1144)
-	(pt 840 1080)
-)
-(connector
-	(pt 840 1080)
-	(pt 864 1080)
-)
-(connector
-	(pt 744 1096)
-	(pt 824 1096)
-)
-(connector
-	(pt 744 1000)
-	(pt 816 1000)
-)
-(connector
-	(pt 744 952)
-	(pt 824 952)
-)
-(connector
-	(pt 1032 752)
-	(pt 1040 752)
-)
-(connector
-	(pt 1016 784)
-	(pt 1040 784)
-)
-(connector
-	(pt 1032 800)
-	(pt 1040 800)
-)
-(connector
-	(pt 1032 1392)
-	(pt 1032 800)
-)
-(connector
-	(pt 1016 1040)
-	(pt 1016 784)
-)
-(connector
-	(pt 992 768)
-	(pt 1040 768)
-)
-(connector
-	(pt 992 656)
-	(pt 928 656)
-)
-(connector
-	(pt 992 768)
-	(pt 992 656)
-)
-(connector
-	(pt 744 856)
-	(pt 848 856)
-)
-(connector
-	(pt 744 808)
-	(pt 832 808)
-)
-(connector
-	(pt 744 760)
-	(pt 816 760)
-)
-(connector
-	(pt 744 712)
-	(pt 808 712)
-)
-(connector
-	(pt 744 616)
-	(pt 792 616)
-)
-(connector
-	(pt 744 568)
-	(pt 800 568)
-)
-(connector
-	(pt 744 520)
-	(pt 816 520)
-)
-(connector
-	(pt 1032 336)
-	(pt 928 336)
-)
-(connector
-	(pt 1032 752)
-	(pt 1032 336)
-)
-(connector
-	(pt 744 472)
-	(pt 840 472)
-)
-(connector
-	(pt 744 424)
-	(pt 824 424)
-)
-(connector
-	(pt 744 328)
-	(pt 808 328)
-)
-(connector
-	(pt 864 1064)
-	(pt 824 1064)
-)
-(connector
-	(pt 824 1096)
-	(pt 824 1064)
-)
-(connector
-	(pt 744 1048)
-	(pt 864 1048)
-)
-(connector
-	(pt 816 1032)
-	(pt 864 1032)
-)
-(connector
-	(pt 816 1000)
-	(pt 816 1032)
-)
-(connector
-	(pt 824 1016)
-	(pt 864 1016)
-)
-(connector
-	(pt 824 952)
-	(pt 824 1016)
-)
-(connector
-	(pt 832 904)
-	(pt 832 1000)
-)
-(connector
-	(pt 832 1000)
-	(pt 864 1000)
-)
-(connector
-	(pt 744 904)
-	(pt 832 904)
-)
-(connector
-	(pt 848 856)
-	(pt 848 984)
-)
-(connector
-	(pt 848 984)
-	(pt 864 984)
-)
-(connector
-	(pt 832 712)
-	(pt 864 712)
-)
-(connector
-	(pt 832 808)
-	(pt 832 712)
-)
-(connector
-	(pt 864 696)
-	(pt 816 696)
-)
-(connector
-	(pt 816 760)
-	(pt 816 696)
-)
-(connector
-	(pt 864 680)
-	(pt 808 680)
-)
-(connector
-	(pt 808 712)
-	(pt 808 680)
-)
-(connector
-	(pt 744 664)
-	(pt 864 664)
-)
-(connector
-	(pt 792 648)
-	(pt 864 648)
-)
-(connector
-	(pt 792 616)
-	(pt 792 648)
-)
-(connector
-	(pt 800 632)
-	(pt 864 632)
-)
-(connector
-	(pt 800 568)
-	(pt 800 632)
-)
-(connector
-	(pt 816 616)
-	(pt 864 616)
-)
-(connector
-	(pt 816 520)
-	(pt 816 616)
-)
-(connector
-	(pt 840 472)
-	(pt 840 600)
-)
-(connector
-	(pt 840 600)
-	(pt 864 600)
-)
-(connector
-	(pt 864 392)
-	(pt 824 392)
-)
-(connector
-	(pt 824 424)
-	(pt 824 392)
-)
-(connector
-	(pt 744 376)
-	(pt 864 376)
-)
-(connector
-	(pt 808 360)
-	(pt 864 360)
-)
-(connector
-	(pt 808 328)
-	(pt 808 360)
-)
-(connector
-	(pt 744 280)
-	(pt 824 280)
-)
-(connector
-	(pt 824 280)
-	(pt 824 344)
-)
-(connector
-	(pt 824 344)
-	(pt 864 344)
-)
-(connector
-	(pt 744 232)
-	(pt 832 232)
-)
-(connector
-	(pt 832 232)
-	(pt 832 328)
-)
-(connector
-	(pt 832 328)
-	(pt 864 328)
-)
-(connector
-	(pt 744 184)
-	(pt 840 184)
-)
-(connector
-	(pt 840 184)
-	(pt 840 312)
-)
-(connector
-	(pt 840 312)
-	(pt 864 312)
-)
-(connector
-	(pt 744 136)
-	(pt 848 136)
-)
-(connector
-	(pt 848 136)
-	(pt 848 296)
-)
-(connector
-	(pt 848 296)
-	(pt 864 296)
-)
-(connector
-	(pt 744 88)
-	(pt 856 88)
-)
-(connector
-	(pt 856 88)
-	(pt 856 280)
-)
-(connector
-	(pt 856 280)
-	(pt 864 280)
 )
 (connector
 	(pt 672 96)
@@ -3351,4 +2951,440 @@ refer to the applicable agreement for further details.
 (connector
 	(pt 344 576)
 	(pt 328 576)
+)
+(connector
+	(pt 856 88)
+	(pt 856 280)
+)
+(connector
+	(pt 856 280)
+	(pt 864 280)
+)
+(connector
+	(pt 848 136)
+	(pt 848 296)
+)
+(connector
+	(pt 848 296)
+	(pt 864 296)
+)
+(connector
+	(pt 840 184)
+	(pt 840 312)
+)
+(connector
+	(pt 840 312)
+	(pt 864 312)
+)
+(connector
+	(pt 832 232)
+	(pt 832 328)
+)
+(connector
+	(pt 832 328)
+	(pt 864 328)
+)
+(connector
+	(pt 824 280)
+	(pt 824 344)
+)
+(connector
+	(pt 824 344)
+	(pt 864 344)
+)
+(connector
+	(pt 808 360)
+	(pt 864 360)
+)
+(connector
+	(pt 808 328)
+	(pt 808 360)
+)
+(connector
+	(pt 864 392)
+	(pt 824 392)
+)
+(connector
+	(pt 824 424)
+	(pt 824 392)
+)
+(connector
+	(pt 1032 752)
+	(pt 1040 752)
+)
+(connector
+	(pt 1032 336)
+	(pt 928 336)
+)
+(connector
+	(text "zero2seven" (rect 1016 696 1033 750)(font "Intel Clear" )(vertical))
+	(pt 1032 752)
+	(pt 1032 336)
+)
+(connector
+	(pt 840 472)
+	(pt 840 600)
+)
+(connector
+	(pt 840 600)
+	(pt 864 600)
+)
+(connector
+	(pt 816 616)
+	(pt 864 616)
+)
+(connector
+	(pt 816 520)
+	(pt 816 616)
+)
+(connector
+	(text "I0_00000" (rect 754 72 797 89)(font "Intel Clear" ))
+	(pt 744 88)
+	(pt 856 88)
+)
+(connector
+	(text "I1_00001" (rect 754 120 797 137)(font "Intel Clear" ))
+	(pt 744 136)
+	(pt 848 136)
+)
+(connector
+	(text "I2_00010" (rect 754 168 797 185)(font "Intel Clear" ))
+	(pt 744 184)
+	(pt 840 184)
+)
+(connector
+	(text "I3_00011" (rect 754 216 797 233)(font "Intel Clear" ))
+	(pt 744 232)
+	(pt 832 232)
+)
+(connector
+	(text "I4_00100" (rect 754 264 797 281)(font "Intel Clear" ))
+	(pt 744 280)
+	(pt 824 280)
+)
+(connector
+	(text "I5_00101" (rect 754 312 797 329)(font "Intel Clear" ))
+	(pt 744 328)
+	(pt 808 328)
+)
+(connector
+	(text "I6_00110" (rect 754 360 797 377)(font "Intel Clear" ))
+	(pt 744 376)
+	(pt 864 376)
+)
+(connector
+	(text "I7_00111" (rect 754 408 797 425)(font "Intel Clear" ))
+	(pt 744 424)
+	(pt 824 424)
+)
+(connector
+	(text "I8_01000" (rect 754 456 797 473)(font "Intel Clear" ))
+	(pt 744 472)
+	(pt 840 472)
+)
+(connector
+	(text "I9_01001" (rect 754 504 797 521)(font "Intel Clear" ))
+	(pt 744 520)
+	(pt 816 520)
+)
+(connector
+	(text "I10_01010" (rect 754 552 803 569)(font "Intel Clear" ))
+	(pt 744 568)
+	(pt 800 568)
+)
+(connector
+	(pt 800 632)
+	(pt 864 632)
+)
+(connector
+	(pt 800 568)
+	(pt 800 632)
+)
+(connector
+	(text "I11_01011" (rect 754 600 803 617)(font "Intel Clear" ))
+	(pt 744 616)
+	(pt 792 616)
+)
+(connector
+	(pt 792 648)
+	(pt 864 648)
+)
+(connector
+	(pt 792 616)
+	(pt 792 648)
+)
+(connector
+	(text "I12_01100" (rect 754 648 803 665)(font "Intel Clear" ))
+	(pt 744 664)
+	(pt 864 664)
+)
+(connector
+	(text "I13_01101" (rect 754 696 803 713)(font "Intel Clear" ))
+	(pt 744 712)
+	(pt 808 712)
+)
+(connector
+	(pt 864 680)
+	(pt 808 680)
+)
+(connector
+	(pt 808 712)
+	(pt 808 680)
+)
+(connector
+	(text "I14_01110" (rect 754 744 803 761)(font "Intel Clear" ))
+	(pt 744 760)
+	(pt 816 760)
+)
+(connector
+	(pt 864 696)
+	(pt 816 696)
+)
+(connector
+	(pt 816 760)
+	(pt 816 696)
+)
+(connector
+	(text "I15_01111" (rect 754 792 803 809)(font "Intel Clear" ))
+	(pt 744 808)
+	(pt 832 808)
+)
+(connector
+	(pt 832 712)
+	(pt 864 712)
+)
+(connector
+	(pt 832 808)
+	(pt 832 712)
+)
+(connector
+	(pt 992 768)
+	(pt 1040 768)
+)
+(connector
+	(pt 992 656)
+	(pt 928 656)
+)
+(connector
+	(text "eight2fifteen" (rect 976 707 993 767)(font "Intel Clear" )(vertical))
+	(pt 992 768)
+	(pt 992 656)
+)
+(connector
+	(text "I16_10000" (rect 754 840 803 857)(font "Intel Clear" ))
+	(pt 744 856)
+	(pt 848 856)
+)
+(connector
+	(pt 848 856)
+	(pt 848 984)
+)
+(connector
+	(pt 848 984)
+	(pt 864 984)
+)
+(connector
+	(pt 832 904)
+	(pt 832 1000)
+)
+(connector
+	(pt 832 1000)
+	(pt 864 1000)
+)
+(connector
+	(text "I17_10001" (rect 754 888 803 905)(font "Intel Clear" ))
+	(pt 744 904)
+	(pt 832 904)
+)
+(connector
+	(text "I18_10010" (rect 754 936 803 953)(font "Intel Clear" ))
+	(pt 744 952)
+	(pt 824 952)
+)
+(connector
+	(pt 824 1016)
+	(pt 864 1016)
+)
+(connector
+	(pt 824 952)
+	(pt 824 1016)
+)
+(connector
+	(text "I19_10011" (rect 754 984 803 1001)(font "Intel Clear" ))
+	(pt 744 1000)
+	(pt 816 1000)
+)
+(connector
+	(pt 816 1032)
+	(pt 864 1032)
+)
+(connector
+	(pt 816 1000)
+	(pt 816 1032)
+)
+(connector
+	(text "I20_10100" (rect 754 1032 803 1049)(font "Intel Clear" ))
+	(pt 744 1048)
+	(pt 864 1048)
+)
+(connector
+	(text "I21_10101" (rect 754 1080 803 1097)(font "Intel Clear" ))
+	(pt 744 1096)
+	(pt 824 1096)
+)
+(connector
+	(pt 864 1064)
+	(pt 824 1064)
+)
+(connector
+	(pt 824 1096)
+	(pt 824 1064)
+)
+(connector
+	(text "I22_10110" (rect 754 1128 803 1145)(font "Intel Clear" ))
+	(pt 744 1144)
+	(pt 840 1144)
+)
+(connector
+	(pt 840 1144)
+	(pt 840 1080)
+)
+(connector
+	(pt 840 1080)
+	(pt 864 1080)
+)
+(connector
+	(text "I23_10111" (rect 754 1176 803 1193)(font "Intel Clear" ))
+	(pt 744 1192)
+	(pt 848 1192)
+)
+(connector
+	(pt 848 1192)
+	(pt 848 1096)
+)
+(connector
+	(pt 848 1096)
+	(pt 864 1096)
+)
+(connector
+	(text "sixteen2twentythree" (rect 938 1024 1034 1041)(font "Intel Clear" ))
+	(pt 1016 1040)
+	(pt 928 1040)
+)
+(connector
+	(pt 1016 784)
+	(pt 1040 784)
+)
+(connector
+	(pt 1016 1040)
+	(pt 1016 784)
+)
+(connector
+	(text "I24_11000" (rect 754 1224 803 1241)(font "Intel Clear" ))
+	(pt 744 1240)
+	(pt 848 1240)
+)
+(connector
+	(pt 848 1240)
+	(pt 848 1336)
+)
+(connector
+	(pt 848 1336)
+	(pt 864 1336)
+)
+(connector
+	(pt 840 1352)
+	(pt 864 1352)
+)
+(connector
+	(text "I25_11001" (rect 754 1272 803 1289)(font "Intel Clear" ))
+	(pt 744 1288)
+	(pt 840 1288)
+)
+(connector
+	(pt 840 1352)
+	(pt 840 1288)
+)
+(connector
+	(text "I26_11010" (rect 754 1320 803 1337)(font "Intel Clear" ))
+	(pt 744 1336)
+	(pt 824 1336)
+)
+(connector
+	(pt 824 1336)
+	(pt 824 1368)
+)
+(connector
+	(pt 824 1368)
+	(pt 864 1368)
+)
+(connector
+	(text "I27_11011" (rect 754 1368 803 1385)(font "Intel Clear" ))
+	(pt 744 1384)
+	(pt 864 1384)
+)
+(connector
+	(text "I28_11100" (rect 754 1416 803 1433)(font "Intel Clear" ))
+	(pt 744 1432)
+	(pt 824 1432)
+)
+(connector
+	(pt 824 1432)
+	(pt 824 1400)
+)
+(connector
+	(pt 824 1400)
+	(pt 864 1400)
+)
+(connector
+	(text "I29_11101" (rect 754 1464 803 1481)(font "Intel Clear" ))
+	(pt 744 1480)
+	(pt 832 1480)
+)
+(connector
+	(pt 832 1480)
+	(pt 832 1416)
+)
+(connector
+	(pt 832 1416)
+	(pt 864 1416)
+)
+(connector
+	(text "I30_11110" (rect 754 1512 803 1529)(font "Intel Clear" ))
+	(pt 744 1528)
+	(pt 840 1528)
+)
+(connector
+	(pt 840 1528)
+	(pt 840 1432)
+)
+(connector
+	(pt 840 1432)
+	(pt 864 1432)
+)
+(connector
+	(text "I31_11111" (rect 754 1560 803 1577)(font "Intel Clear" ))
+	(pt 744 1576)
+	(pt 848 1576)
+)
+(connector
+	(pt 848 1576)
+	(pt 848 1448)
+)
+(connector
+	(pt 848 1448)
+	(pt 864 1448)
+)
+(connector
+	(text "twentyfour2thirtyone" (rect 938 1376 1038 1393)(font "Intel Clear" ))
+	(pt 1032 1392)
+	(pt 928 1392)
+)
+(connector
+	(pt 1032 800)
+	(pt 1040 800)
+)
+(connector
+	(pt 1032 1392)
+	(pt 1032 800)
 )
