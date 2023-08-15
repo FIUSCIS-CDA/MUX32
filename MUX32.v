@@ -15,7 +15,7 @@
 
 // PROGRAM		"Quartus Prime"
 // VERSION		"Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition"
-// CREATED		"Thu May 12 07:40:28 2022"
+// CREATED		"Tue Aug 15 12:34:02 2023"
 
 module MUX32(
 	I0,
